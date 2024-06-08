@@ -1,3 +1,4 @@
+.DS_Store
 # Taken from https://github.com/github/gitignore/blob/main/Maven.gitignore:
 target/
 pom.xml.tag
